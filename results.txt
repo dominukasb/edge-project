@@ -1,0 +1,4 @@
+Requests per endpoint: 50
+
+Local  (edge):   avg=0.0011s  min=0.0010s  max=0.0013s
+Remote (netem):  avg=0.2019s  min=0.2011s  max=0.2055s
